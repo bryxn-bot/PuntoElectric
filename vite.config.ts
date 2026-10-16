@@ -28,7 +28,10 @@ export default defineConfig({
             formVariants: true,
         }),
     ]),
-    server: {
+     server: {
+        host: '0.0.0.0',
+        port: 5173,
+        cors: true,
         watch: {
             ignored: [
                 '**/.agents/**',
