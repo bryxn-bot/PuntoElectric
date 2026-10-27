@@ -116,5 +116,5 @@
         "resources/js/**/*.ts",
         "resources/js/**/*.d.ts",
         "resources/js/**/*.tsx"
-    ]
+, "resources/js/pages/inicio/inicio.jsx", "resources/js/pages/inicio/inicio.jsx"    ]
 }

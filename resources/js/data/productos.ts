@@ -274,7 +274,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 19.5,
-        imagenes: fotos('pe-0019, 2'),
+        imagenes: fotos('pe-0019'),
         descripcion: 'Permite cambiar entre luz cálida, neutra y fría. Bajo consumo y larga duración.',
     },
     {
@@ -482,11 +482,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 8,
-        imagenes: [
-            '/products2/carrusel2/cintaledrgb.jpg',
-            '/products2/carrusel2/rgbled.jpg',
-            '/products2/carrusel2/cintaledrgb2.jpg',
-        ],
+        imagenes: fotos ('pe-0036', 2),
         descripcion: 'Cinta LED flexible para iluminación decorativa en techos, muebles, vitrinas y bordes.',
     },
     {
@@ -770,9 +766,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 40,
-        imagenes: [
-            '/newproducto/tablero24.jpg',
-        ],
+        imagenes: fotos ('pe-0058'),
         descripcion: 'Tablero para ordenar y proteger los interruptores termomagnéticos de la instalación eléctrica.',
     },
     {
@@ -1016,7 +1010,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 3,
-        imagenes: fotos('pe-0078'),
+        imagenes: fotos('pe-0078', 2),
         descripcion: 'Tapa para cubrir cajas eléctricas sin uso y dar un acabado limpio.',
     },
     {
@@ -1028,7 +1022,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 5,
-        imagenes: fotos('pe-0079'),
+        imagenes: fotos('pe-0079', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
@@ -1040,7 +1034,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 12,
-        imagenes: fotos('pe-0080'),
+        imagenes: fotos('pe-0080', 2),
         descripcion: 'Regula la intensidad de la luz para crear el ambiente que necesitas.',
     },
     {
@@ -1052,7 +1046,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Pocas unidades',
         precio: 5,
-        imagenes: fotos('pe-0081'),
+        imagenes: fotos('pe-0081', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
@@ -1064,7 +1058,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 6.5,
-        imagenes: fotos('pe-0082'),
+        imagenes: fotos('pe-0082', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
@@ -1076,7 +1070,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 8,
-        imagenes: fotos('pe-0083'),
+        imagenes: fotos('pe-0083', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
@@ -1304,7 +1298,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 7,
-        imagenes: fotos('pe-0102'),
+        imagenes: fotos('pe-0102', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
@@ -1316,7 +1310,7 @@ export const productos: Producto[] = [
         ambientes: ['Interiores', 'Comercial'],
         estado: 'Disponible',
         precio: 9,
-        imagenes: fotos('pe-0103'),
+        imagenes: fotos('pe-0103', 2),
         descripcion: 'Accesorio eléctrico para instalaciones domiciliarias y comerciales. Fácil de instalar.',
     },
     {
